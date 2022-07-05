@@ -1,0 +1,53 @@
+body{
+     font-family: 'Poppins', sans-serif;
+     margin: 0px;
+     width: 100%;
+     
+}
+h1{
+     font-size: 40px;
+     font-weight: 700;
+
+}
+.color{
+     color: coral;
+}
+section{
+     display: flex;
+     margin-bottom: 100px;
+}
+.about-me{
+margin-left: 800px;
+}
+.half-width{
+     width: 50%;
+}
+.margin-set{
+     margin-left:100px;
+}
+.link-button{
+     text-decoration: none;
+     background-image: linear-gradient(orange, red);
+     padding: 10px 40px;
+     border-radius: 120px;
+     width: 700px;
+     color: white;
+
+}
+.background-img{
+     background-image: url(./eat-healthy-main//eat-healthy-main/images/female//7.png);
+     background-repeat: no-repeat;
+     width: 100%;
+     margin-left: 0px;
+     height: 580px;
+     
+}
+.my-recipies{
+     text-align: center;
+
+}
+.my-recipies p{
+     text-align: center;
+     margin-left: 80px;
+     margin-right: 80px;
+}
